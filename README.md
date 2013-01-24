@@ -51,4 +51,5 @@ Installation directory:
 
 Phantom.js: /usr/local/Cellar/phantomjs/1.7.0
 Casper.js:  /usr/local/Cellar/casperjs/1.0.0-RC3
+Coffee: /usr/local/lib/node_modules/coffee-script
 
